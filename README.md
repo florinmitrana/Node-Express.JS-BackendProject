@@ -20,8 +20,8 @@ Only authenticated users with an access token can perform these operations.
 
 1. **Clone the Project:**
    ```bash
-   git clone https://github.com/yourusername/backend-contacts.git
-   cd backend-contacts
+   git clone https://github.com/florinmitrana/Node-Express.JS-BackendProject.git
+   cd Node-Express.JS-BackendProject
    ```
 2. **Install Dependencies**
    ```
